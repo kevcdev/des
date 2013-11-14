@@ -1,0 +1,7 @@
+DirectoryIndex index.php
+RewriteEngine On
+RewriteCond $[SERVER_FILENAME] !-r
+RewriteCond $[SERVER_FILENAME] !-d
+
+RewriteRule ^(.+)$ index.php
+Options -Indexes
