@@ -1,0 +1,42 @@
+2013 11 21 04:30:43| Starting Script.
+
+2013 11 21 04:30:43| Starting Script.
+
+2013 11 21 04:30:32| Starting Script.
+2013 11 21 04:30:33| Starting Script.
+2013 11 21 04:30:30| Connected to database.
+2013 11 21 04:30:30| Starting Script.
+2013 11 21 04:30:31| Connected to database.
+2013 11 21 04:30:31| Starting Script.
+2013 11 21 04:30:31| /var/www/des/classes/class.Database.php
+2013 11 21 04:30:31| Starting Script.
+2013 11 21 04:30:32| /var/www/des/classes/class.Database.php
+2013 11 21 04:30:32| Starting Script.
+2013 11 21 04:30:01| /var/www/des/classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:01| Starting Script.
+2013 11 21 04:30:01| /var/www/des/classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:01| Starting Script.
+2013 11 21 04:30:00| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:00| Starting Script.
+2013 11 21 04:30:00| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:00| Starting Script.
+2013 11 21 04:30:36| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:36| Starting Script.
+2013 11 21 04:30:36| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:36| Starting Script.
+2013 11 21 04:30:52| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:52| Starting Script.
+2013 11 21 04:30:52| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:52| Starting Script.
+2013 11 21 04:30:11| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:11| Starting Script.
+2013 11 21 04:30:12| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:12| Starting Script.
+2013 11 21 04:30:08| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:08| Starting Script.
+2013 11 21 04:30:09| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:09| Starting Script.
+2013 11 21 04:30:23| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:23| Starting Script.
+2013 11 21 04:30:24| classes/class.Database.php||TDatabase||9||Connected to database.
+2013 11 21 04:30:24| Starting Script.
